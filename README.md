@@ -42,3 +42,6 @@ This will train a simple neural network under the circle loss firstly, and then 
 <p align="center">
 <img src="https://github.com/zhjohnchan/circleloss.pytorch/blob/master/figures/compare.png" width = "50%" />
 </p>
+
+## Acknowledgements
+Thanks the implementation [TinyZeaMays/CircleLoss](https://github.com/TinyZeaMays/CircleLoss) and the authors of the paper.
