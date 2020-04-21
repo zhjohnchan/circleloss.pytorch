@@ -7,7 +7,9 @@ The implementation of Circle Loss is from [TinyZeaMays/CircleLoss](https://githu
 ```
 >>> python example_vis.py
 ```
-<img src="https://github.com/zhjohnchan/circleloss.pytorch/blob/master/figures/tsne.png" style="zoom:10%" />
+<p align="center">
+<img src="https://github.com/zhjohnchan/circleloss.pytorch/blob/master/figures/tsne.png" width = "50%" />
+</p>
 
 ## Example 2: Classification
 ### Training w/o circle loss
@@ -37,4 +39,6 @@ This will train a simple neural network under the circle loss firstly, and then 
 >>> python example_compare.py
 ```
 
-<img src="https://github.com/zhjohnchan/circleloss.pytorch/blob/master/figures/compare.png" style="zoom:50%" />
+<p align="center">
+<img src="https://github.com/zhjohnchan/circleloss.pytorch/blob/master/figures/compare.png" width = "50%" />
+</p>
