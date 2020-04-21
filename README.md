@@ -7,6 +7,7 @@ The implementation of Circle Loss is from [TinyZeaMays/CircleLoss](https://githu
 ```
 >>> python example_vis.py
 ```
+This will visualize the learned features using t-SNE.
 <p align="center">
 <img src="https://github.com/zhjohnchan/circleloss.pytorch/blob/master/figures/tsne.png" width = "50%" />
 </p>
@@ -38,6 +39,7 @@ This will train a simple neural network under the circle loss firstly, and then 
 ```
 >>> python example_compare.py
 ```
+This will judge whether two digits are the same.
 
 <p align="center">
 <img src="https://github.com/zhjohnchan/circleloss.pytorch/blob/master/figures/compare.png" width = "50%" />
